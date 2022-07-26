@@ -49,10 +49,10 @@ You can submit your answers to the above tasks in whichever format you prefer.
 For example, we are happy to receive documents, videos, slide decks and collaboration boards (to submit in an alternative format to these, please check with us first).
 The important thing is that you communicate your answers clearly and concisely.
 We recommend videos to be under 5 minutes, documents no more than 4 pages, and slide decks to be no more than 10 slides.
-Please email your submission to sarah@phas3.io before 12pm UTC Sunday 24th July.
+Please email your submission to [email] before [date & time].
 
 ## Judging 
-There will be four prizes (each worth $500 USD at time of payment).
+There will be four prizes (each worth $x USD at time of payment).
 To be eligible for a prize, your idea must fit within one or more of the key themes (see above), and your submission must demonstrate that you have attempted all of the above tasks.
 
 ### Prizes
